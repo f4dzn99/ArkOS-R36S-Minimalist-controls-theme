@@ -12,6 +12,6 @@ There are 8 color options to choose from and they apply to the system wallpaper.
 <img width="600" heigth="1000" src="/assets/images/image2.png">
 
 # :arrow_right: Gamelist View
-:red_circle: This is the basic and detailed view in dark and light mode.
+:red_circle: This is the basic and detailed/video view in dark and light mode.
 
 <img width="600" heigth="1000" src="/assets/images/image3.png">
