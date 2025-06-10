@@ -6,6 +6,16 @@ There are 8 color options to choose from and they apply to the system wallpaper.
 
 <img width="600" heigth="1000"  src="/assets/images/image1.png">
 
+---
+
+#  :arrow_right: Colors
+
+:red_circle:  These are the colors available in the system.
+
+<img width="900" heigth="1000"  src="/assets/images/image4.png">
+
+---
+
 # :arrow_right: Carousel
 :red_circle: The carousel has three options to choose from.
 
